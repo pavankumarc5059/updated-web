@@ -1,0 +1,31 @@
+body{font-family:'Muli',sans-serif;
+line-height:1.8;
+font-size:17px;
+color:#232323}
+h3{font-weight:700}
+.container-section{margin-right:auto;
+margin-left:auto;
+padding-right:15px;
+padding-left:15px;
+max-width:1450px;
+width:100%}
+.anchor{display:block;
+height:80px;
+margin-top:-90px;
+visibility:hidden}
+ .rs-courses-2{padding:60px 0}
+ .rs-courses-2 .cource-item{border:1px solid #ddd}.rs-courses-2 .cource-item .cource-img{position:relative;overflow:hidden}.rs-courses-2 .cource-item 
+ .cource-img img{transition:all .3s ease;width:100%}.rs-courses-2 .cource-item .cource-img .course-value{position:absolute;bottom:-25px;right:25px;
+ height:50px;width:50px;line-height:50px;text-align:center;background-color:#ff3115;color:#fff;font-size:13px;font-weight:500;border-radius:50%}
+ .rs-courses-2 .cource-item .course-body{padding:20px 25px 25px;transition:all 0.5s ease 0s}
+ .rs-courses-2 .cource-item .course-body .course-category{display:inline-block}.rs-courses-2 .cource-item .course-body .course-title{font-size:23px;
+ margin-bottom:7px;color:#b1040e}.rs-courses-2 .cource-item .course-body .course-title a{color:#002147;transition:all 0.35s ease 0s;
+ text-decoration:none;font-weight:600}.rs-courses-2 a{color:#000}.rs-courses-2 .cource-item .course-body .course-title a:hover{color:#196aba}
+ .rs-courses-2 .cource-item .course-body .course-desc{margin-top:12px}.rs-courses-2 .cource-item .course-body .course-desc p{margin-bottom:0;
+ font-size:18px;height:70px}.rs-courses-2 .cource-item .cource-btn{background:#b1040e;border:2px solid #b1040e;display:inline-block;
+ margin-top:20px;padding:3px 11px 3px 11px;font-size:15px;color:#fff;font-weight:600;transition:all 0.3s ease 0s;
+ text-decoration:none}.rs-courses-2 .cource-item .cource-btn:hover{background-color:#fa7503;
+ border-color:#fa7503}.m-r-1{margin-right:5px}.programs img{width:100%}.p-x-1{padding-top:10px}.m-b-1{margin-bottom:20px}
+ .programs{position:relative}.programs h3{margin:0;font-size:19px;padding:10px 0;color:#000;font-weight:400}.programs h3:hover{color:#b1040e}
+ .programs .pr_inner i{padding-right:10px;font-size:17px}.programs h2{color:#b1040e;font-weight:600;font-size:27px}.programs span{position:absolute}
+ .rs-courses-2 .view-more{bottom:auto}

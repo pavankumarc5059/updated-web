@@ -1,0 +1,37 @@
+.button {
+  display: inline-block;
+  width: 500px;
+  height: 50px;
+  padding: 6px;
+  border: none;
+  background-color: #D3D3D3;
+  color: black;
+  font-size: 20px;
+  margin: -7px;
+  cursor: pointer;
+  text-decoration: none;
+  border-style: inset;
+   position: none;
+    
+ }
+h1,h2,h3 {text-align: center;}
+.topnav {
+  overflow: hidden;
+  background-color: #8B0000;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
